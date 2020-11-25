@@ -1,0 +1,28 @@
+_repo: The-Story-Tellers-Magazine-Vol-I-No-2-July-1913_63750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Wyche, Richard Thomas
+    alias: Wyche, Richard T.
+    gutenberg_agent_id: '52254'
+    url: http://www.gutenberg.org/2009/agents/52254
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Periodicals'
+- !lcc 'LB'
+- GITenberg
+title: The Story Tellers' Magazine, Vol. I, No. 2, July 1913
+url: http://www.gutenberg.org/ebooks/63750
